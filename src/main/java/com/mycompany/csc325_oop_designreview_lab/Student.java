@@ -50,7 +50,7 @@ public class Student extends Human {
      *
      * Gets student's gpa
      */
-    public double getGpa(double gpa){
+    public double getGpa(){
         return gpa;
     }
 
